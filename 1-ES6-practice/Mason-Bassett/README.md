@@ -22,7 +22,7 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-Well because const means constant anything that changes in the code needs to be let so for loops need the i to change and the anything counting the choices needed to change because it increases per click.
+Well because const means constant anything that changes in the code needs to be let so for loops need the i to change and the anything counting the choices needed to change because it increases per click. Also the allproducts change because of the local storage.
 
 ---
 
